@@ -1,4 +1,9 @@
 {
   "version": "1.0.0",
-  "files": []
+  "files": [
+    {
+      "path": "HASSL/test.txt",
+      "url": "https://rsotrudka-alt.github.io/HASSL-Launche/files/test.txt"
+    }
+  ]
 }
